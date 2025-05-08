@@ -1,0 +1,24 @@
+# Estudo de Caso 
+## Seleção de Material para Eixo de Transmissão Automotiva
+  
+**Contexto:**
+Uma empresa do setor automotivo está desenvolvendo um novo modelo de veículo leve utilitário. Um dos principais desafios do projeto é selecionar o material adequado para o eixo de transmissão, que deve suportar torques elevados, apresentar boa resistência ao desgaste e ao impacto, e ao mesmo tempo ter um custo competitivo e ser facilmente usinável.
+
+**Desafio proposto:**
+Você foi contratado como engenheiro de materiais da equipe de desenvolvimento e precisa propor a liga ferrosa mais adequada para a fabricação do eixo, justificando sua escolha com base em:
+
+1. A composição química e o teor de carbono da liga recomendada.
+2. As propriedades mecânicas requeridas pela aplicação.
+3. A análise do diagrama Fe-C indicando a faixa de composição e as fases envolvidas.
+4. A viabilidade econômica e tecnológica da solução.
+
+**Tarefa:**
+Elabore um parecer técnico contendo:
+
+* Uma proposta de material (tipo de aço ou ferro fundido), com justificativa técnica;
+* Um esboço interpretativo do trecho relevante do diagrama Fe-C;
+* Uma breve discussão sobre alternativas possíveis e seus impactos em custo e desempenho.
+
+
+**Dificuldade:** Intermediária   
+**Tipo de resposta:** Abrangente (Completa)

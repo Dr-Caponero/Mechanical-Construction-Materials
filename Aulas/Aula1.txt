@@ -1,0 +1,47 @@
+# Aula 1  - Aços e Ferros Fundidos com Base no Diagrama Fe-C
+
+## **1. Introdução aos Materiais Ferrosos**
+
+**Importância dos aços e ferros fundidos na construção mecânica:** Os aços e ferros fundidos são materiais essenciais na engenharia mecânica devido à sua ampla disponibilidade, baixo custo relativo, excelente capacidade de conformação e variedade de propriedades mecânicas que podem ser ajustadas por meio da composição química e tratamentos térmicos. Os aços são amplamente utilizados em estruturas que exigem alta resistência e tenacidade, como pontes, edifícios, engrenagens e eixos. Já os ferros fundidos, com sua boa fluidez no estado líquido e excelente usinabilidade, são ideais para peças de geometria complexa e componentes que exigem alta resistência ao desgaste, como blocos de motores, bases de máquinas e tampas. O domínio do uso desses materiais permite ao engenheiro mecânico escolher a melhor solução técnica e econômica para cada aplicação industrial.
+
+**Diferença entre ligas ferrosas e não ferrosas:** Ligas ferrosas são aquelas que têm o ferro como principal elemento de base, sendo os aços e ferros fundidos os exemplos mais comuns. Elas se destacam por sua alta resistência mecânica, facilidade de fabricação, resposta a tratamentos térmicos e custo relativamente baixo. Já as ligas não ferrosas são compostas predominantemente por outros elementos, como alumínio, cobre, magnésio, titânio e níquel. Essas ligas, em geral, apresentam menor densidade, maior resistência à corrosão, e propriedades elétricas e térmicas específicas. São amplamente utilizadas quando se requer leveza, resistência à oxidação ou condutividade, como nas indústrias aeronáutica, naval e elétrica. A escolha entre ligas ferrosas e não ferrosas depende, portanto, das exigências mecânicas, térmicas, químicas e econômicas da aplicação.
+
+**Papel do carbono na modificação das propriedades do ferro:** O carbono é o principal elemento de liga presente nos aços e ferros fundidos e exerce influência decisiva sobre suas propriedades mecânicas, térmicas e estruturais. Em baixas concentrações, o carbono se dissolve na estrutura cristalina do ferro formando a ferrita, que é macia e dúctil. À medida que a concentração de carbono aumenta, formam-se outras fases, como a perlita (mistura lamelar de ferrita e cementita) e a cementita ($Fe_3C$), que é extremamente dura e frágil. Essa variedade de fases resulta em materiais com diferentes níveis de dureza, resistência, ductilidade e usinabilidade. Por exemplo, um aço com cerca de 0,2% de carbono é adequado para aplicações que exigem boa conformabilidade, enquanto um com 0,8% possui alta resistência mecânica, ideal para componentes estruturais. Em concentrações superiores a 2,11%, o material deixa de ser aço e passa a ser classificado como ferro fundido, caracterizado por elevada fragilidade, mas excelente fundibilidade. Assim, o teor de carbono é a variável chave que permite ao engenheiro controlar a microestrutura e, portanto, o desempenho do material em serviço.
+
+## **2. Diagrama de Equilíbrio Fe-C (Ferro-Carbono)**
+
+**Apresentação do diagrama metaestável Fe-Fe3C:** O diagrama de fases Fe-Fe3C, também conhecido como diagrama ferro-carbono, é uma representação gráfica que mostra as transformações de fases que ocorrem em ligas ferro-carbono sob condições de equilíbrio. Ele é chamado de "metaestável" porque considera a cementita ($Fe_3C$) como uma fase estável, embora na realidade ela tenda a se decompor em grafita ao longo do tempo, em condições de equilíbrio termodinâmico. O diagrama se estende de 0% a 6,67% de carbono, sendo que a maioria das aplicações práticas envolve concentrações de até 4,3%. Ele é fundamental para compreender o comportamento dos aços (até 2,11% de C) e dos ferros fundidos (acima disso), pois indica as fases presentes, suas proporções e as temperaturas nas quais ocorrem as transformações. Entre os pontos-chave estão o eutetóide (0,76% C a 727°C), onde a austenita se transforma em perlita, e o eutético (4,3% C a 1147°C), onde ocorre a solidificação simultânea de austenita e cementita. A leitura correta do diagrama permite prever a microestrutura final de um material após o resfriamento, essencial para o controle de suas propriedades mecânicas e para o desenvolvimento de tratamentos térmicos eficazes.
+
+* Pontos críticos: eutetóide (0,76% C a 727°C), eutético (4,3% C a 1147°C).
+
+* Fases importantes: ferrita ($\alpha$), austenita ($\gamma$), cementita ($Fe_3C$), perlita.
+
+* Transformações de fases com resfriamento.
+
+## **3. Classificação dos Aços com Base no Teor de Carbono**
+
+* Aços hipoeutetóides (C < 0,76%): ferrita + perlita.
+
+* Aços eutetóides (C ≈ 0,76%): perlita.
+
+* Aços hipereutetóides (0,76% < C < 2,11%): perlita + cementita.
+
+* Relação entre estrutura, propriedades mecânicas e aplicações.
+
+## **4. Classificação dos Ferros Fundidos**
+
+* Definição: ligas Fe-C com C > 2,11%.
+* Tipos:
+
+  * Ferro fundido branco: cementita, alta dureza, fratura frágil.
+  * Ferro fundido cinzento: grafita em flocos, boa usinabilidade.
+  * Ferro fundido nodular: grafita esferoidal, boa ductilidade.
+  * Ferro fundido maleável: obtido por recozimento do ferro branco.
+
+## **5. Aplicabilidades na Engenharia Mecânica**
+
+* Aços: estruturas, eixos, engrenagens.
+* Ferros fundidos: blocos de motor, bases de máquinas, tubulações.
+
+
+
