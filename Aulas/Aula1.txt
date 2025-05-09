@@ -12,6 +12,8 @@
 
 **Apresentação do diagrama metaestável Fe-Fe3C:** O diagrama de fases Fe-Fe3C, também conhecido como diagrama ferro-carbono, é uma representação gráfica que mostra as transformações de fases que ocorrem em ligas ferro-carbono sob condições de equilíbrio. Ele é chamado de "metaestável" porque considera a cementita ($Fe_3C$) como uma fase estável, embora na realidade ela tenda a se decompor em grafita ao longo do tempo, em condições de equilíbrio termodinâmico. O diagrama se estende de 0% a 6,67% de carbono, sendo que a maioria das aplicações práticas envolve concentrações de até 4,3%. Ele é fundamental para compreender o comportamento dos aços (até 2,11% de C) e dos ferros fundidos (acima disso), pois indica as fases presentes, suas proporções e as temperaturas nas quais ocorrem as transformações. Entre os pontos-chave estão o eutetóide (0,76% C a 727°C), onde a austenita se transforma em perlita, e o eutético (4,3% C a 1147°C), onde ocorre a solidificação simultânea de austenita e cementita. A leitura correta do diagrama permite prever a microestrutura final de um material após o resfriamento, essencial para o controle de suas propriedades mecânicas e para o desenvolvimento de tratamentos térmicos eficazes.
 
+![Diagrama Fe-C](https://www.ispatguru.com/wp-content/uploads/2016/03/Fe-C-phase-diagram.jpg)
+
 * Pontos críticos: eutetóide (0,76% C a 727°C), eutético (4,3% C a 1147°C).
 
 * Fases importantes: ferrita ($\alpha$), austenita ($\gamma$), cementita ($Fe_3C$), perlita.
@@ -22,9 +24,15 @@
 
 * Aços hipoeutetóides (C < 0,76%): ferrita + perlita.
 
+![Aço Hipoeutetóide](https://arquivos.respondeai.com.br/seo-mirror/theory/2023/57da28ed-9900-49f2-a186-0d19b5ba8102.webp)
+
 * Aços eutetóides (C ≈ 0,76%): perlita.
 
+![Aço Eutetóide](https://www.cimm.com.br/portal/material_didatico/6434-diagramas-fe-fesub3subc)
+
 * Aços hipereutetóides (0,76% < C < 2,11%): perlita + cementita.
+
+![Aço Hipereutetóide](https://arquivos.respondeai.com.br/seo-mirror/theory/2023/03c1ce75-4a8b-4b4d-9437-1e2db76c0b9d.webp)
 
 * Relação entre estrutura, propriedades mecânicas e aplicações.
 
