@@ -28,7 +28,9 @@
 
 * Aços eutetóides (C ≈ 0,76%): perlita.
 
-![Aço Eutetóide](https://www.cimm.com.br/portal/material_didatico/6434-diagramas-fe-fesub3subc)
+
+![Aço Eutetóide](https://www.ispatguru.com/wp-content/uploads/2016/03/Fe-C-phase-diagram.jpg)
+
 
 * Aços hipereutetóides (0,76% < C < 2,11%): perlita + cementita.
 
