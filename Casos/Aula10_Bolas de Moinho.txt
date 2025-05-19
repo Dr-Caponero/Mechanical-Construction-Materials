@@ -1,0 +1,29 @@
+# Estudo de Caso
+
+## Seleção de Material para Revestimento Interno (Liner) de Moinho de Bolas para Mineração
+
+**Contexto:**
+
+Uma empresa do setor de mineração opera moinhos de bolas para moagem de minério de ferro. Os **revestimentos internos (liners)** desses moinhos são componentes críticos que sofrem **desgaste severo** devido à combinação de **abrasão** causada pelas bolas de moagem e pelo minério, e **impacto** gerado pelo movimento das bolas e da carga. A **vida útil limitada** dos liners atuais resulta em paradas frequentes para substituição, elevando os custos operacionais e de manutenção. A empresa busca identificar um material alternativo que proporcione uma **maior durabilidade**, justificando um possível aumento no custo inicial pela redução dos gastos a longo prazo.
+
+**Desafio proposto:**
+
+Você foi designado como engenheiro de materiais responsável por propor uma **liga ferrosa mais adequada** para a fabricação dos novos revestimentos internos dos moinhos de bolas. Sua proposta deve ser tecnicamente justificada, abordando os seguintes pontos:
+
+1.  Identificar as **propriedades mecânicas essenciais** (como dureza, resistência ao desgaste, tenacidade) que o material deve possuir para suportar as condições de operação (abrasão e impacto).
+2.  Propor um **tipo específico de liga ferrosa** (classificado como aço ou ferro fundido, conforme apresentado nas fontes), detalhando sua **composição química principal** (especialmente teor de carbono e elementos de liga relevantes).
+3.  Explicar **como a microestrutura característica** da liga proposta (relacionando-a a fases como ferrita, perlita, cementita, martensita, bainita ou grafita, e conceitos do diagrama Fe-C, conforme descrito nas fontes) confere ao material a combinação necessária de **resistência ao desgaste e tenacidade**.
+4.  Discutir brevemente a **viabilidade tecnológica** para fabricar peças de grande porte e geometria complexa como os liners, considerando os processos de fabricação (como fundição ou forjamento) e a necessidade de **tratamentos térmicos** específicos para otimizar as propriedades.
+
+**Tarefa:**
+
+Elabore um **parecer técnico** contendo:
+
+*   Uma **proposta clara do material** a ser utilizado, justificando tecnicamente a escolha com base nas propriedades exigidas e na composição/microestrutura da liga.
+*   Uma análise detalhada de **como a composição química e a microestrutura** do material proposto são adequadas para resistir aos mecanismos de desgaste e impacto presentes na aplicação. Esta análise pode fazer referência a conceitos e fases encontrados nas fontes.
+*   Uma breve discussão sobre os **processos de fabricação** e **tratamentos térmicos** que seriam necessários para obter as propriedades ótimas no material proposto.
+*   Considerações sobre os compromissos entre as propriedades (por exemplo, entre dureza e tenacidade) e como a liga escolhida equilibra esses requisitos.
+
+**Dificuldade:** Intermediária
+
+**Tipo de resposta:** Abrangente (Completa)
