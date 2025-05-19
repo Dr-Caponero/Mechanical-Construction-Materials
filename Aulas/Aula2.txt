@@ -1,0 +1,39 @@
+# Aula 2 - Formação Dendrítica no Resfriamento de Metais Fundidos
+
+## **1. O que são dendritas e por que estudá-las**
+
+**Definição de dendrita:** Dendritas são estruturas em forma de árvore que se formam quando um metal líquido inicia o processo de solidificação. Essas estruturas apresentam um eixo principal, conhecido como "tronco", que cresce preferencialmente em uma direção cristalográfica, e ramificações secundárias, chamadas de "braços dendríticos", que se expandem lateralmente. O surgimento dessas formas ocorre devido à diferença na taxa de resfriamento e à forma como os átomos se organizam para formar uma estrutura cristalina estável.
+**Por que isso é importante:** Compreender o fenômeno da formação dendrítica é crucial para prever e controlar a microestrutura final das peças metálicas. A disposição das dendritas influencia diretamente propriedades como resistência mecânica, ductilidade, dureza e tenacidade. Além disso, o formato e a distribuição das dendritas afetam processos subsequentes, como usinagem, soldagem e tratamentos térmicos. Assim, o estudo da dendritogênese permite aos engenheiros selecionar os melhores parâmetros para a produção de peças com alto desempenho e longevidade.
+
+## **2. Como as dendritas se formam**
+
+**Super-resfriamento:** Para que um metal líquido comece a formar cristais sólidos, ele precisa ser resfriado a uma temperatura ligeiramente inferior ao seu ponto de fusão. Esse fenômeno é chamado de super-resfriamento e é essencial para iniciar a nucleação. O grau de super-resfriamento afeta o número de núcleos formados e a velocidade com que a solidificação avança.
+**Nucleação e crescimento:** O início da solidificação se dá por meio da nucleação, que pode ser homogênea (no interior do líquido, sem interferência externa) ou heterogênea (em superfícies, impurezas ou paredes do molde). Após a nucleação, os cristais crescem em direções preferenciais, formando as estruturas dendríticas. A morfologia da dendrita está diretamente relacionada à taxa de crescimento, à direção do gradiente térmico e às condições químicas locais.
+**Efeito do calor e dos elementos de liga:** O fluxo de calor (gradiente térmico) determina a direção de crescimento das dendritas. Além disso, os elementos de liga presentes no metal influenciam a velocidade de crescimento e a forma das dendritas, podendo inibir ou favorecer certas orientações cristalinas. O entendimento dessas variáveis é essencial para prever e controlar a microestrutura de ligas metálicas complexas.
+
+
+![Formação de Flocos de Neve](https://img.vimeo.com/87342468/0.jpg)(https://vimeo.com/87342468)
+
+
+## **3. Como as dendritas se organizam**
+
+**Morfologia primária e secundária:** As dendritas apresentam um tronco primário que cresce em uma direção preferencial, geralmente paralela ao gradiente térmico. A partir dele, desenvolvem-se ramificações secundárias e até terciárias. Essa organização tridimensional é influenciada por fatores como composição química da liga, velocidade de resfriamento e geometria do molde. Em ligas com múltiplos elementos, as ramificações podem apresentar formas assimétricas.
+**Influência da taxa de resfriamento:** Quanto mais rápida a taxa de resfriamento, mais finas e densas são as dendritas, resultando em uma microestrutura mais refinada. Já taxas de resfriamento mais lentas promovem o crescimento de dendritas maiores e mais espaçadas. Essa diferença impacta diretamente as propriedades mecânicas da peça, podendo alterar sua resistência ao impacto, sua tenacidade e sua resistência à fadiga.
+**Espaçamento dendrítico:** O espaçamento entre os braços das dendritas é uma variável crítica na caracterização metalúrgica. Espaçamentos pequenos estão associados a grãos finos e propriedades superiores, enquanto espaçamentos maiores indicam estruturas mais grosseiras e, muitas vezes, propriedades mecânicas inferiores. Esse parâmetro é utilizado para avaliar a qualidade da solidificação e também para ajustar condições de fundição em escala industrial.
+
+![Microestrutura](https://www.gsic.titech.ac.jp/sites/default/files/Fig3.png)
+
+## **4. O problema da segregação**
+
+**Segregação química:** Durante a solidificação, os elementos de liga não se distribuem uniformemente entre o sólido e o líquido. Elementos com maior afinidade por permanecer no líquido são rejeitados pelas dendritas em crescimento e acabam se concentrando nas regiões entre os galhos dendríticos. Isso resulta em uma composição química não uniforme, fenômeno conhecido como segregação interdendrítica.
+**Consequências:** A segregação química pode causar regiões com diferentes propriedades dentro da mesma peça. Isso leva a defeitos como fragilidade localizada, trincas, porosidades e a formação de fases indesejadas. Em aplicações críticas, como na indústria aeroespacial ou automobilística, esse problema pode comprometer seriamente a segurança e o desempenho dos componentes. Para mitigar esses efeitos, são empregados tratamentos térmicos de homogeneização, que visam redistribuir os elementos químicos de forma mais uniforme ao longo do material.
+
+![Segregação](https://www.researchgate.net/profile/Zhiming-Gao/publication/313127577/figure/fig1/AS:505815271264256@1497607166616/Schematics-of-porosity-formation-and-Cu-enrichment-in-interdendritic-liquid-in.png)
+
+## **5. Aplicações na Engenharia Mecânica**
+
+**Importância nas indústrias:** O controle da morfologia dendrítica é um dos principais desafios na produção de peças fundidas com qualidade. Motores automotivos, turbinas de avião, componentes de transmissão e peças estruturais metálicas são exemplos de produtos cuja performance depende da estrutura dendrítica formada durante a solidificação. Em ligas de alumínio, por exemplo, a refinação dos grãos dendríticos melhora a ductilidade e a resistência à fadiga.
+**Como controlar:** Técnicas de controle incluem o uso de resfriamento direcionado, modificação do projeto do molde, uso de nucleantes ou refinadores de grão (como o TiB₂ para alumínio), e a adição de elementos modificadores que alteram a taxa de nucleação e a morfologia da solidificação. O uso de sensores térmicos e simulações computacionais permite monitorar e ajustar os parâmetros em tempo real, garantindo a formação de microestruturas desejadas.
+**Exemplos de aplicação:** Nas indústrias automotiva e aeronáutica, o controle da solidificação é essencial para garantir que os componentes resistam a cargas cíclicas, variações térmicas e ambientes corrosivos. Aços de alta performance utilizados em pontes, trilhos de trem e eixos de veículos também são fabricados com foco na estrutura dendrítica.
+
+
