@@ -12,7 +12,7 @@
 **Efeito do calor e dos elementos de liga:** O fluxo de calor (gradiente térmico) determina a direção de crescimento das dendritas. Além disso, os elementos de liga presentes no metal influenciam a velocidade de crescimento e a forma das dendritas, podendo inibir ou favorecer certas orientações cristalinas. O entendimento dessas variáveis é essencial para prever e controlar a microestrutura de ligas metálicas complexas.
 
 
-![Formação de Flocos de Neve](https://img.vimeo.com/87342468/0.jpg)(https://vimeo.com/87342468)
+![Formação de Flocos de Neve](https://i.vimeocdn.com/video/87342468/0.jpg)(https://vimeo.com/87342468)
 
 
 ## **3. Como as dendritas se organizam**
