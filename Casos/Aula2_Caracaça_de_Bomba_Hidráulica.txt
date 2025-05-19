@@ -1,0 +1,22 @@
+# Estudo de Caso  
+## Otimização da Microestrutura Dendrítica em Carcaça de Bomba Hidráulica
+
+**Contexto:**  
+Uma indústria metalúrgica que fabrica bombas hidráulicas para máquinas pesadas está enfrentando problemas de falha prematura em carcaças fundidas de liga de alumínio. Após análises metalográficas, constatou-se que a estrutura interna das peças apresenta dendritas excessivamente ramificadas, espaçamento dendrítico irregular e segregações localizadas de elementos de liga, o que tem contribuído para trincas durante o funcionamento sob pressão.
+
+Essas carcaças são produzidas por fundição em molde permanente, com resfriamento moderado e sem controle rigoroso da temperatura de vazamento ou do tempo de solidificação. A empresa precisa garantir peças com maior homogeneidade estrutural, propriedades mecânicas superiores e redução de defeitos associados à solidificação.
+
+**Desafio proposto:**  
+Você é o engenheiro contratado para avaliar o processo de solidificação atual e propor melhorias no controle da formação dendrítica da liga de alumínio utilizada nas carcaças. Seu objetivo é aumentar a confiabilidade mecânica do componente fundido, reduzindo a ocorrência de falhas associadas à morfologia dendrítica e à segregação química.
+
+**Tarefa:**  
+Elabore um parecer técnico que contenha:
+
+1. Uma explicação dos fatores que influenciam a formação e o espaçamento das dendritas na liga fundida de alumínio.
+2. Propostas técnicas para reduzir o espaçamento dendrítico e minimizar a segregação química, considerando alternativas viáveis no processo de fundição.
+3. Avaliação do impacto das mudanças propostas sobre a morfologia dendrítica e as propriedades mecânicas da peça (como resistência à trinca, tenacidade e usinabilidade).
+
+
+**Dificuldade:** Intermediária a Avançada  
+**Tipo de resposta:** Abrangente (Completa)  
+
