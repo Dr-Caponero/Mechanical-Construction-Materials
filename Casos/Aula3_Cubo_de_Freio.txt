@@ -1,0 +1,36 @@
+# Estudo de Caso
+
+## Influência da Taxa de Resfriamento na Microestrutura de Um Cubo de Freio Fundido
+
+**Contexto:**
+Uma fábrica de componentes automotivos está desenvolvendo uma nova linha de cubos de freio fundidos em alumínio-silício para veículos de passeio. O projeto visa melhorar o desempenho térmico e a resistência mecânica dessas peças. Durante os testes iniciais, foram observadas variações significativas nas propriedades mecânicas de peças fundidas sob diferentes condições de produção, especialmente quando comparados moldes de areia verde com moldes metálicos (coquilhas).
+
+As análises revelaram que as peças fundidas em moldes metálicos apresentaram **maior dureza e melhor resistência à fadiga**, enquanto as fundidas em areia tinham **microestrutura mais grosseira e maior índice de falhas por trincas térmicas**.
+
+**Desafio Proposto:**
+Você integra a equipe de engenharia de materiais da empresa e foi encarregado de estudar o impacto da **taxa de resfriamento** sobre a microestrutura final do componente e suas propriedades. O objetivo é definir a melhor estratégia de fundição para a produção em larga escala, otimizando custo, qualidade e desempenho.
+
+**Tarefa:**
+Elabore um relatório técnico contendo:
+
+1. Uma análise dos efeitos metalúrgicos da taxa de resfriamento sobre:
+
+   * O tamanho e morfologia dos grãos;
+   * O crescimento dendrítico;
+   * As zonas macroestruturais (equiaxial, colunar);
+   * A formação de porosidades e trincas térmicas.
+
+2. Uma proposta comparativa entre moldes de areia e moldes metálicos, considerando:
+
+   * Taxas de resfriamento típicas;
+   * Custo e complexidade do processo;
+   * Qualidade da microestrutura e propriedades mecânicas finais.
+
+3. Um esboço esquemático demonstrando o fluxo de calor e a evolução da solidificação nos dois tipos de molde.
+
+4. Indicações de ensaios metalográficos e testes mecânicos a serem realizados para validar os resultados esperados com cada abordagem.
+
+**Dificuldade:** Intermediária
+**Tipo de resposta:** Técnica aplicada, com fundamentação metalúrgica e análise comparativa de processos
+
+
