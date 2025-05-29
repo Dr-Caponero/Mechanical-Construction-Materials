@@ -20,6 +20,8 @@ Explicar como o controle do resfriamento durante a solidificação influencia a 
 
 Discutir brevemente as vantagens e limitações da liga eutética Pb-Sn, considerando as características microestruturais obtidas a partir do diagrama de fase, e como essas influenciam o desempenho da solda.
 
+![Diagrama Pb-Sn](https://arquivos.respondeai.com.br/seo-mirror/exercise/2023/d2e7bc91-4dc7-4e46-ba0f-4c2b0a14a9fc.webp)
+
 **Tarefa:**
 
 Elabore um parecer técnico contendo:
