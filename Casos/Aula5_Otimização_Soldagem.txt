@@ -23,7 +23,7 @@ Os estudantes deverão, como engenheiros em formação, realizar as seguintes at
 * **d)** Apresentar a influência dessas alterações sobre o raio crítico de nucleação, utilizando qualitativamente a equação:
 
   $$
-  r^* = \frac{-2·γ·T_m}{ΔH·ΔT}
+  r^* = \frac{-2·γ·T_m}{ΔH_L·ΔT}
   $$
 
   e discutir as implicações sobre a taxa de nucleação.
