@@ -24,7 +24,7 @@ O super-resfriamento, definido como a diferença entre a temperatura de fusão d
 
 A equação clássica para o cálculo do raio crítico de nucleação ($r^*$) pode ser expressa em função de parâmetros termodinâmicos macroscópicos como:
 
-$$r^* = dfrac{-2 \gamma T_m}{\Delta H_L\Delta T}$$
+$$r^* = \dfrac{-2 \gamma T_m}{\Delta H_L\Delta T}$$
 
 onde:
 
