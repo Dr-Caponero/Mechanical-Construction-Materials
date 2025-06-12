@@ -1,4 +1,4 @@
-# Aula 2 - Formação Dendrítica no Resfriamento de Metais Fundidos
+# Aula - Formação Dendrítica no Resfriamento de Metais Fundidos
 
 ## **1. O que são dendritas e por que estudá-las**
 
