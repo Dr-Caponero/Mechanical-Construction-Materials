@@ -1,0 +1,39 @@
+# **Estudo de Caso: Otimização da Solidificação em Processo de Soldagem de Aço Inoxidável para Aplicações Críticas**
+
+
+## **1. Contexto**
+
+Em aplicações críticas, como na indústria petroquímica ou em plantas de energia nuclear, soldas em aço inoxidável austenítico (como o AISI 304) devem apresentar elevada resistência à corrosão intergranular, boa tenacidade e ausência de trincas térmicas. A microestrutura da zona fundida é diretamente afetada pelos mecanismos de nucleação e crescimento durante a solidificação do banho de solda, especialmente devido ao alto gradiente térmico, às altas taxas de resfriamento e à composição química local. O controle microestrutural torna-se, portanto, um desafio central para garantir a integridade do componente soldado.
+
+
+## **2. Desafio proposto**
+
+Durante a inspeção de uma tubulação de aço inoxidável soldada por arco submerso, foram detectadas trincas intergranulares na zona fundida e propriedades mecânicas aquém do especificado. A análise metalográfica revelou estrutura de grãos colunares excessivamente alongados, orientados perpendicularmente à linha de solda, com segregações localizadas de elementos formadores de ferrita. O setor de qualidade solicitou ao time de engenharia uma reavaliação do procedimento de soldagem com base nos fundamentos de nucleação e crescimento, a fim de evitar futuras falhas estruturais.
+
+## **3. Tarefa**
+
+Os estudantes deverão, como engenheiros em formação, realizar as seguintes atividades:
+
+* **a)** Explicar por que a nucleação heterogênea é dominante no processo de soldagem e como a orientação térmica influencia a morfologia dos grãos.
+* **b)** Discutir os mecanismos de formação de grãos colunares e as causas da segregação de solutos na zona fundida.
+* **c)** Propor duas estratégias para promover a formação de grãos equiaxiais na zona fundida de uma junta soldada, considerando:
+
+  * Modificações no ciclo térmico
+  * Introdução de partículas inoculantes
+* **d)** Apresentar a influência dessas alterações sobre o raio crítico de nucleação, utilizando qualitativamente a equação:
+
+  $$
+  r^* = \frac{-2·γ·T_m}{ΔH·ΔT}
+  $$
+
+  e discutir as implicações sobre a taxa de nucleação.
+* **e)** Avaliar os impactos esperados na resistência mecânica e na resistência à corrosão intergranular.
+* **f)** Redigir um relatório técnico com recomendações práticas para a revisão do procedimento de soldagem da empresa, baseando-se em fundamentos de ciência dos materiais.
+
+---
+
+**Dificuldade:** Difícil. Este estudo de caso exige não apenas conhecimento teórico sobre nucleação e crescimento, mas também sua aplicação em um cenário industrial específico, envolvendo soldagem, comportamento térmico e propriedades mecânicas. 
+
+**Tipo de Resposta Esperada:**Abrangente (Completa). A solução deve demonstrar argumentação técnica sólida, raciocínio estruturado, aplicação correta dos fundamentos teóricos à realidade da soldagem de aços inoxidáveis e proposição de intervenções viáveis do ponto de vista metalúrgico e produtivo.
+
+
