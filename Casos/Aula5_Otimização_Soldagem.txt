@@ -34,6 +34,6 @@ Os estudantes deverão, como engenheiros em formação, realizar as seguintes at
 
 **Dificuldade:** Difícil. Este estudo de caso exige não apenas conhecimento teórico sobre nucleação e crescimento, mas também sua aplicação em um cenário industrial específico, envolvendo soldagem, comportamento térmico e propriedades mecânicas. 
 
-**Tipo de Resposta Esperada:**Abrangente (Completa). A solução deve demonstrar argumentação técnica sólida, raciocínio estruturado, aplicação correta dos fundamentos teóricos à realidade da soldagem de aços inoxidáveis e proposição de intervenções viáveis do ponto de vista metalúrgico e produtivo.
+**Tipo de Resposta Esperada:** Abrangente (Completa). A solução deve demonstrar argumentação técnica sólida, raciocínio estruturado, aplicação correta dos fundamentos teóricos à realidade da soldagem de aços inoxidáveis e proposição de intervenções viáveis do ponto de vista metalúrgico e produtivo.
 
 
