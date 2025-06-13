@@ -1,0 +1,20 @@
+# **Estudo de Caso: Aplicando a Lei de Resfriamento de Newton em Processos Industriais**
+
+## **Contexto:**
+A indústria metalúrgica frequentemente realiza tratamentos térmicos em componentes metálicos com o objetivo de alterar suas propriedades mecânicas, como dureza e tenacidade. Um dos desafios práticos está em controlar a taxa de resfriamento dessas peças para evitar tensões térmicas excessivas ou microestruturas indesejadas. A Lei de Resfriamento de Newton pode ser utilizada como ferramenta de modelagem preliminar para prever o comportamento térmico de peças metálicas durante a fase de resfriamento em ambiente isotérmico.
+
+## **Desafio Proposto:**
+A empresa fictícia MetalForte realiza o tratamento térmico de eixos de aço médio carbono. Após o recozimento a 850 °C, os eixos são expostos ao ar ambiente (25 °C) e resfriam naturalmente por convecção. Durante uma inspeção de rotina, foi observado que algumas peças estavam apresentando zonas de fragilidade próximas à superfície, indicando um resfriamento muito rápido. O corpo técnico precisa modelar o processo para entender as taxas de resfriamento envolvidas e propor ajustes.
+
+## **Tarefa:**
+
+1. Aplicar a equação da Lei de Resfriamento de Newton para modelar o comportamento térmico dos eixos com base em dados fornecidos (temperatura inicial, ambiente e estimativa da constante k).
+2. Estimar o tempo necessário para que os eixos atinjam 100 °C e 50 °C.
+3. Discutir como diferentes valores de k (simulando variações no fluxo de ar) afetam a taxa de resfriamento.
+4. Apresentar graficamente os resultados para diferentes cenários.
+5. Propor recomendações para otimizar o processo de resfriamento a fim de evitar formação de trincas e tensões internas.
+
+**Dificuldade:** Intermediária
+
+**Tipo de Resposta:** Abrangente (Completa)
+
