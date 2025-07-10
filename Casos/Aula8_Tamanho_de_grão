@@ -1,0 +1,30 @@
+# **Estudo de Caso: Controle de Crescimento de Grão em Aços para Componentes de Alta Resistência Mecânica**
+
+## **Contexto:**
+
+Uma fabricante de peças automotivas especializada em sistemas de transmissão e suspensão utiliza aços microligados laminados a quente para produzir eixos de roda submetidos a cargas cíclicas elevadas. O processo de fabricação envolve uma sequência de deformações plásticas intensas seguidas por tratamentos térmicos de alívio de tensões e ajuste de microestrutura. No entanto, inspeções metalográficas em lotes recentes indicaram crescimento acentuado dos grãos após o recozimento, resultando em queda da resistência à fadiga e aumento da variabilidade dimensional dos componentes. O engenheiro responsável pelo setor metalúrgico deve propor uma solução tecnicamente fundamentada para refinar e estabilizar a microestrutura recristalizada sem comprometer a produtividade da linha.
+
+## **Desafio proposto:**
+
+Você foi contratado como consultor técnico em engenharia mecânica para avaliar o processo térmico atual e propor um conjunto de modificações que assegure microestrutura de grão fino e propriedades mecânicas estáveis. Para tanto, sua análise deve contemplar os seguintes pontos:
+
+1. Identificar os mecanismos metalúrgicos responsáveis pelo crescimento de grão observado, relacionando-os à temperatura de recozimento, tempo de residência e à ausência ou presença de elementos de liga atuantes no efeito de pinning.
+2. Explicar como a manipulação da taxa de aquecimento, da temperatura de recozimento e do tempo de permanência podem influenciar o equilíbrio entre recuperação, recristalização e crescimento de grão.
+3. Avaliar a possibilidade de adição ou ajuste de microadições (Ti, Nb, V, etc.) visando promover a formação de precipitados estáveis e eficazes no impedimento à migração dos contornos de grão.
+4. Sugerir uma nova rota de tratamento térmico (com ou sem intervenções termo-mecânicas intermediárias), justificando a escolha em função dos mecanismos microestruturais descritos na literatura técnica.
+
+## **Tarefa:**
+
+Elabore um parecer técnico que inclua:
+
+* Um diagnóstico microestrutural e termodinâmico da falha de controle de grão fino, com base nos conceitos de recuperação, recristalização e crescimento de grão.
+* A proposta de uma modificação na rota térmica ou na composição química da liga, com justificativa técnica baseada nos mecanismos de pinning, nucleação e cinética de crescimento.
+* Discussão das implicações práticas da proposta: impacto na produtividade, necessidade de novos equipamentos, custos envolvidos e benefícios esperados.
+* Considerações sobre os compromissos entre refinamento de grão, resistência mecânica e ductilidade, e como a rota proposta equilibra esses requisitos.
+
+**Dificuldade:** Intermediária
+
+**Tipo de resposta:** Abrangente (Completa)
+
+
+
