@@ -1,0 +1,31 @@
+# **Estudo de Caso: Seleção e Aplicabilidade de Tratamentos Térmicos em Eixos de Transmissão para Equipamentos Pesados**
+
+## **Contexto:**
+
+Uma empresa do setor de equipamentos pesados para construção civil e mineração tem enfrentado falhas precoces em eixos de transmissão utilizados em carregadeiras de grande porte. Esses eixos são submetidos a ciclos repetitivos de torque elevado, impacto intermitente e condições ambientais agressivas, como variações térmicas e presença de umidade. Inspeções revelaram que os eixos apresentam fratura frágil após certo tempo de uso, com indícios de tensões internas mal distribuídas e regiões com microestrutura heterogênea, composta por perlita grosseira e ferrita descontínua. A engenharia da empresa suspeita que o problema está relacionado à escolha inadequada de tratamento térmico no processo de fabricação dos eixos.
+
+## **Desafio Proposto:**
+
+Você foi contratado como engenheiro para revisar o processo térmico aplicado aos eixos e propor uma rota de tratamento térmico que otimize a combinação de dureza superficial, resistência ao desgaste, tenacidade e homogeneidade estrutural interna.
+
+Sua proposta deve contemplar:
+
+* A seleção justificada do(s) tratamento(s) térmico(s) a serem aplicados: recozimento, normalização, têmpera ou combinações entre eles.
+* A descrição das transformações microestruturais esperadas em cada etapa.
+* Os efeitos esperados em propriedades como dureza, tenacidade, resistência mecânica e estabilidade dimensional.
+* A interação entre o tratamento térmico proposto e o processo de fabricação dos eixos (forjamento, usinagem, etc.).
+* A discussão sobre riscos de trinca por tensões internas e como mitigá-los.
+
+## **Tarefa:**
+
+Elabore um parecer técnico contendo:
+
+1. Uma descrição detalhada do processo térmico sugerido (etapas, temperaturas, meios de resfriamento, tempos).
+2. Uma explicação das transformações de fases e microestruturas envolvidas, relacionando-as com o diagrama Fe-C e com os conceitos discutidos em aula.
+3. Uma análise das propriedades esperadas no eixo após o tratamento, justificando a melhoria do desempenho em serviço.
+4. Considerações sobre a viabilidade industrial da proposta e seu custo-benefício.
+
+**Dificuldade:** Intermediária
+
+**Tipo de Resposta:** Abrangente (Completa)
+

@@ -1,0 +1,118 @@
+# **Aula: Tratamentos Térmicos em Aços – Recozimento, Normalização e Têmpera**
+
+
+## 1. Introdução aos Tratamentos Térmicos
+
+Os tratamentos térmicos são processos que envolvem o aquecimento e o resfriamento controlado de materiais metálicos com o objetivo de modificar suas características estruturais internas. Essa modificação da microestrutura afeta diretamente propriedades como dureza, resistência, ductilidade e tenacidade. Para engenheiros mecânicos, esses tratamentos são essenciais para garantir o desempenho adequado de peças submetidas a esforços mecânicos, atrito, fadiga ou altas temperaturas. Fatores importantes incluem a temperatura de tratamento, tempo de exposição, velocidade de resfriamento e composição química do material.
+
+---
+
+## 2. Recozimento
+
+### 2.1 Objetivos
+
+O recozimento visa melhorar a trabalhabilidade do aço e aliviar tensões internas. Serve para tornar o material mais macio e dúctil, além de restaurar sua capacidade de deformação plástica após endurecimento por deformação a frio.
+
+### 2.2 Tipos
+
+* **Recozimento completo:** aquecimento até a região austenítica seguido de resfriamento lento. Usado para restaurar estrutura e propriedades originais.
+* **Recozimento de alívio de tensões:** realizado abaixo da temperatura crítica, com o objetivo de reduzir tensões residuais geradas por soldagem, usinagem ou conformação.
+* **Recozimento esferoidizante:** promove a formação de partículas esféricas de cementita em aços com alto teor de carbono, facilitando o corte e a conformação.
+
+### 2.3 Transformações Microestruturais
+
+Durante o recozimento, ocorre recristalização e crescimento de grão, com redução da densidade de discordâncias. A microestrutura resultante geralmente apresenta ferrita e perlita com morfologia mais grosseira.
+
+### 2.4 Propriedades Obtidas
+
+Após o recozimento, o aço se torna mais maleável e menos resistente, com aumento da tenacidade. Essa condição é desejável para etapas de conformação ou usinagem subsequentes.
+
+![Recozimento](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidblMV9ALKU9ZrJzrdX4tfKLsNMtcmY2C5k1ML_YMSpOUUZjIwVhaSk0QPNtG-gEl0dZCWQk0UX3hBT76BStDIZbzkO9y_LSiDioYupgmeaaD1xV-ytpxBxEugh5gg4xxTsZLVizzOmDve/s1600/recozimento+isot%C3%A9rmico.png)
+
+---
+
+## 3. Normalização
+
+### 3.1 Objetivos
+
+A normalização visa refinar os grãos e homogeneizar a estrutura, principalmente em aços que passaram por soldagem ou fundição. Também é empregada como tratamento prévio à têmpera.
+
+### 3.2 Procedimento
+
+Consiste no aquecimento até a temperatura de austenitização, seguido de resfriamento ao ar calmo. Esse resfriamento mais rápido em comparação com o recozimento resulta em uma estrutura mais fina.
+
+### 3.3 Transformações Microestruturais
+
+Forma-se uma mistura de ferrita e perlita com grãos mais finos e uniformes. Há redução de segregações e eliminação de estruturas desequilibradas.
+
+### 3.4 Propriedades Obtidas
+
+Os aços normalizados têm resistência mecânica maior que os recozidos, mantendo boa ductilidade. A estrutura obtida é ideal para tratamentos posteriores, como têmpera e revenimento.
+
+
+![Normalização](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsCVsgohyphenhyphen2VBALO6eRr1aQt0ePHEJZy2JpHmdOoGjXvZWxORn6kPoUeDQscFjqhjw7-qeq8ikteOy_Kixc2GbChDl5kUAaNiwhdCheDP760W7kHz-NhlUYriNCnJjMYRUN5KZnJCtwk3Mo/s1600/Normaliza%25C3%25A7%25C3%25A3o.jpg)
+
+---
+
+## 4. Têmpera
+
+### 4.1 Objetivos
+
+O principal objetivo da têmpera é aumentar a dureza e a resistência ao desgaste do aço. Isso é feito por meio da transformação da austenita em martensita, uma estrutura muito dura e frágil.
+
+### 4.2 Procedimento
+
+A peça é aquecida até a temperatura de austenitização e, em seguida, resfriada rapidamente em meios como água, óleo ou soluções aquosas. Esse resfriamento impede a difusão de átomos, resultando em uma transformação não difusional.
+
+### 4.3 Transformações Microestruturais
+
+Durante o resfriamento rápido, a austenita se transforma em martensita, uma estrutura tetragonal de corpo centrado altamente tensionada e supersaturada em carbono. Em alguns casos, parte da austenita pode não se transformar, permanecendo como austenita retida.
+
+### 4.4 Propriedades Obtidas
+
+A martensita confere ao aço altíssima dureza e resistência mecânica, mas reduz a tenacidade. Por isso, normalmente é necessário aplicar o revenimento para aliviar tensões e aumentar a tenacidade.
+
+### 4.5 Aspectos Críticos
+
+A velocidade de resfriamento deve ser suficiente para evitar a formação de perlita e bainita. O risco de trincas e empenamentos é elevado, principalmente em peças grandes ou com geometria complexa.
+
+
+![Tempera](https://tecfar.com.br/wp-content/uploads/2019/03/tec-300x225.png)
+
+---
+
+## 5. Comparativo
+
+| Tratamento   | Temperatura de Aquecimento | Resfriamento        | Microestrutura Final          | Propriedades                          |
+| ------------ | -------------------------- | ------------------- | ----------------------------- | ------------------------------------- |
+| Recozimento  | Ac3 + 20–30°C              | Lento (no forno)    | Ferrita + perlita grosseira   | Alta ductilidade, baixa dureza        |
+| Normalização | Ac3 + 40–50°C              | Moderado (ar)       | Ferrita + perlita fina        | Equilíbrio entre dureza e ductilidade |
+| Têmpera      | Ac3 + 50–80°C              | Rápido (óleo, água) | Martensita + austenita retida | Alta dureza, baixa tenacidade         |
+
+
+
+![Encharque](https://img1.wsimg.com/isteam/ip/685a077f-3d20-4493-91aa-5980638d4a9b/clip_image002-91.png)
+
+---
+
+## 6. Aplicações
+
+* **Recozimento:** aplicado em peças que precisam ser conformadas ou usinadas com facilidade.
+* **Normalização:** indicada para peças fundidas, forjadas ou soldadas, que necessitam de estrutura homogênea.
+* **Têmpera:** ideal para ferramentas, engrenagens, trilhos e outros componentes sujeitos a impacto e desgaste intenso.
+
+---
+
+## 7. Considerações Finais
+
+O sucesso dos tratamentos térmicos depende do controle preciso da temperatura, tempo e meio de resfriamento. É fundamental entender o comportamento das fases presentes nos aços ao longo do aquecimento e do resfriamento. O engenheiro deve avaliar as exigências mecânicas da aplicação e selecionar o tratamento adequado, considerando também os custos e a viabilidade industrial.
+
+---
+
+## 8. Leituras Recomendadas
+
+* Callister, W. D. *Fundamentos da Ciência e Engenharia dos Materiais*.
+* Totten, G. E. *Steel Heat Treatment – Metallurgy and Technologies*.
+* Avner, S. H. *Introdução à Metalurgia Física*.
+* ASM Handbook, Volume 4 – *Heat Treating*.
+
